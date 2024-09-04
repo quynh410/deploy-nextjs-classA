@@ -3,7 +3,7 @@ import React from 'react'
 export default function page() {
   return (
     <div>
-      deploy nextJs
+      deploy nextJs basic
     </div>
   )
 }
